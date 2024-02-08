@@ -1,5 +1,5 @@
 # 簡單報名網站
-這份題目需要你們從[這個github的repository](https://github.com/Bill-Huangz/Easy-Web)Fork一份到你們自己的github上，然後修改你們的github裡的文件，最後發PR給我們。
+這份題目需要你們從這個repository，Fork一份到你們自己的github上，然後修改你們的github裡的文件，最後發PR給我們。
 ## Fork From Repository
 1. 進到repo的頁面，找到fork的部分，點 **Create a new fork**。![image](https://i.imgur.com/oiiHz4F.png)
 2. owner選擇自己，然後點 **Create Fork**![image](https://i.imgur.com/nZGBfRO.png)
