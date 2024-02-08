@@ -15,7 +15,8 @@
 1. 將「報名網站」置中到網頁，然後加上背景顏色。
 2. 將「一個簡單的報名網站」置中到網頁，然後加上背景顏色。
 3. 表單新增，出生年/月/日欄位，格式用日期。
-4. 您的性別欄位選項有「男」、「女」「不方便提供」。![image](https://i.imgur.com/ZZlrB72.png)
+4. 您的性別欄位選項有「男」、「女」「不方便提供」。
+![image](https://i.imgur.com/ZZlrB72.png)
 5. 按下submit按鈕後會跳轉到success.html頁面，success.html要長這樣
 ![image](https://i.imgur.com/VmTBo7t.png)
 Thanks圖片在img的資料夾裡。
