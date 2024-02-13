@@ -24,7 +24,7 @@ Thanks圖片在img的資料夾裡。
 ## 發PR
 
 
-## Some Source
+## Some Reources
 * [W3School HTML](https://www.w3schools.com/html/default.asp)
 * [W3School CSS](https://www.w3schools.com/css/default.asp)
 * [Medium-CSS 的引入方式有哪些?](https://medium.com/@small2883/css-%E7%9A%84%E4%B8%89%E7%A8%AE%E5%BC%95%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B-58dc7570bb9c)
