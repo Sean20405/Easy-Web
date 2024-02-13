@@ -13,7 +13,7 @@
 ![image](https://i.imgur.com/obGqUAy.png)
 ### 實際上要做的事...
 1. 將「報名網站」置中到網頁，然後加上背景顏色。
-2. 將「一個簡單的報名網站」置中到網頁，然後加上背景顏色。
+2. 將「一個簡單的報名網站」置中到網頁，然後變斜體。
 3. 表單新增，出生年/月/日欄位，格式用日期。
 4. 您的性別欄位選項有「男」、「女」「不方便提供」。 //
 ![image](https://i.imgur.com/ZZlrB72.png)
@@ -22,3 +22,9 @@
 Thanks圖片在img的資料夾裡。
 
 ## 發PR
+
+
+## Some Source
+* [W3School HTML](https://www.w3schools.com/html/default.asp)
+* [W3School CSS](https://www.w3schools.com/css/default.asp)
+* [Medium-CSS 的引入方式有哪些?](https://medium.com/@small2883/css-%E7%9A%84%E4%B8%89%E7%A8%AE%E5%BC%95%E5%85%A5%E6%96%B9%E5%BC%8F%E6%9C%89%E5%93%AA%E4%BA%9B-58dc7570bb9c)
