@@ -1,9 +1,9 @@
 # 簡單報名網站
-這份題目需要你們從這個repository，Fork一份到你們自己的github上，然後修改你們的github裡的文件，最後發PR給我們。
+這份題目需要你們從這個 repository，Fork 一份到你們自己的 GitHub 上，然後修改你們的 GitHub 裡的文件，最後發 PR 給我們。
 ## Fork From Repository
-1. 進到repo的頁面，找到fork的部分，點 **Create a new fork**。![image](https://i.imgur.com/oiiHz4F.png)
-2. owner選擇自己，然後點 **Create Fork**![image](https://i.imgur.com/nZGBfRO.png)
-3. 進到自己fork的repository，git clone下來那就好囉。
+1. 進到 repo 的頁面，找到 fork 的部分，點 **Create a new fork**。![image](https://i.imgur.com/oiiHz4F.png)
+2. owner 選擇自己，然後點 **Create Fork**![image](https://i.imgur.com/nZGBfRO.png)
+3. 進到自己 fork 的 repository，`git clone` 下來那就好囉。
 
 
 ## Mission
@@ -15,14 +15,20 @@
 1. 將「報名網站」置中到網頁，然後加上背景顏色。
 2. 將「一個簡單的報名網站」置中到網頁，然後變斜體。
 3. 表單新增，出生年/月/日欄位，格式用日期。
-4. 您的性別欄位選項有「男」、「女」「不方便提供」。 //
+4. 您的性別欄位選項有「男」、「女」、「不方便提供」。 //
 ![image](https://i.imgur.com/ZZlrB72.png)
-5. 按下submit按鈕後會跳轉到success.html頁面，success.html要長這樣
+5. 按下 submit 按鈕後會跳轉到 success.html 頁面，success.html 要長這樣
 ![image](https://i.imgur.com/VmTBo7t.png)
-Thanks圖片在img的資料夾裡。
+Thanks 圖片在 img 的資料夾裡。
 
-## 發PR
-
+## 發 PR
+1. 做完後，進到[原 repo](https://github.com/Bill-Huangz/Easy-Web)，選取 Pull requests，點選 New pull request
+![image](https://i.imgur.com/HcbV3LN.png)
+![image](https://i.imgur.com/o6lNots.png)
+2. 箭頭右邊填自己的 repo 以及對應的 branch，左邊填此 repo（若一開始不是這個畫面可以點選上面的 compare across forks），最後 Create pull request，進到下一頁同樣按 create 就完成了！
+![image](https://i.imgur.com/O7KoDC3.png)
+3. 可以同樣到 Pull requests 的區段確認自己有沒有發成功
+![image](https://i.imgur.com/rCDtXhu.png)
 
 ## Some Reources
 * [W3School HTML](https://www.w3schools.com/html/default.asp)
