@@ -23,7 +23,12 @@ Thanks 圖片在 img 的資料夾裡。
 
 ## 發 PR
 1. 做完後，進到[原 repo](https://github.com/Bill-Huangz/Easy-Web)，選取 Pull requests，點選 New pull request
-2. 
+![image](https://i.imgur.com/HcbV3LN.png)
+![image](https://i.imgur.com/o6lNots.png)
+2. 箭頭右邊填自己的 repo 以及對應的 branch，左邊填此 repo（若一開始不是這個畫面可以點選上面的 compare across forks），最後 Create pull request，進到下一頁同樣按 create 就完成了！
+![image](https://i.imgur.com/O7KoDC3.png)
+3. 可以同樣到 Pull requests 的區段確認自己有沒有發成功
+![image](https://i.imgur.com/rCDtXhu.png)
 
 ## Some Reources
 * [W3School HTML](https://www.w3schools.com/html/default.asp)
