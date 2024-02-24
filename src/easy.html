@@ -10,26 +10,33 @@
             padding: 10px; 
         }
     </style>
+    <!-- <link rel="stylesheet" href="./style.css"> -->
 </head>
 
 <body>
-    <h1 class="title">報名網站</h1><!--background-color is rgb(240,240,240)-->
-    <p>一個簡單的報名網站</p>
-    <div style="???">
+    <h1 class="title" style="background-color: rgb(240,240,240); text-align: center;">報名網站</h1><!--background-color is rgb(240,240,240)-->
+    <p id="short" style="text-align: center; font-style: oblique;">一個簡單的報名網站</p>
+    <div style="background-color:aquamarine;width:fit-content;height: fit-content; 
+    position: relative;  
+    left: 50%;
+    transform: translate(-50%, 0%);">
         <div></div>
-        <div class="form"><form style="line-height: 1.75;" action="???">    
+        <div class="form"><form style="line-height: 1.75;" action="success.html">    
             <label for="fname">您的大名: </label>
             <input type="text" name="name" id="fname"><br>
-
+            <label for="date">出生日期:</label>
+            <input type="date" name="birthday" id="birthday"><br>
 
 
             <label for="gender">您的性別: </label>
             <select id="gender" name="gender">
-
+                <option value="boy" selected>男</option>
+                <option value="girl" >女</option>
+                <option value="unknown">不方便提供</option>
 
 
             </select><br>
-            <div style="???"><input type="submit" value="Submit"></div>
+            <div style="position: relative;left: 100%;transform: translate(-20%, 0%);"><input type="submit" value="Submit"></div>
             </form>
         </div>
         <div></div>
